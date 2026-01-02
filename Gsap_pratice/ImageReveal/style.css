@@ -1,0 +1,29 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.spacer{
+    height: 100vh;
+}
+
+
+.image-section{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-wrapper{
+    width: 70%;
+    overflow: hidden;
+}
+
+
+.image-wrapper img{
+    width: 100%;
+    transform: translateY(100%) scale((0.8));
+    scale: 1.2;
+}
