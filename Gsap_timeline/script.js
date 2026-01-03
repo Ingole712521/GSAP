@@ -8,7 +8,7 @@ tl.to("#full", {
   right: 0,
   duration: 1,
 });
-tl.from("#full h4", {
+tl.from("#full  h4", {
   x: 150,
   duration: 1,
   stragger: 1,
