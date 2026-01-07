@@ -1,3 +1,5 @@
+/** @format */
+
 // gsap.to(".page1", {
 //   scale: 0.5,
 //   scrollTrigger: {
