@@ -1,0 +1,27 @@
+/** @format */
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  color: white;
+}
+
+html,
+body {
+  background-color: black;
+  padding: auto;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.list {
+  display: flex;
+  gap: 40px;
+}
