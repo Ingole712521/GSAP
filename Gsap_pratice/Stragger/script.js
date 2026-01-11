@@ -34,13 +34,36 @@
 // });
 
 // Random Order
+// gsap.from(".list h1", {
+//   x: 100,
+//   opacity: 0,
+//   duration: 1,
+//   stagger: {
+//     each: 0.4,
+//     from: "random",
+//   },
+// });
 
-gsap.from(".list h1", {
-  x: 100,
+// Grid Ripple
+// gsap.from(".list h1", {
+//   scale: 0.5,
+//   duration: 0.8,
+//   stagger: {
+//     each: 0.5,
+//     grid: "auto",
+//     from: "center",
+//   },
+// });
+
+// timeline
+const tl = gsap.timeline();
+tl.from(".list h1", {
+  y: "40",
   opacity: 0,
+  duration: 0.8,
+  stagger: 0.3,
+})
+.to(".list h1 ", {
+  duration: 360,
   duration: 1,
-  stagger: {
-    each: 0.4,
-    from: "random",
-  },
 });
