@@ -20,3 +20,9 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.timeline {
+  display: flex;
+  justify-content: baseline;
+  margin-top: 7%;
+}

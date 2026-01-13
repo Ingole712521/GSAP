@@ -18,3 +18,15 @@ const t1 = gsap.timeline({
 
 // Start Togeher
 // t1.to(".box1", { x: 100 }).to(".box2", { x: "200" }, "<");
+
+const child = gsap.timeline();
+
+child.from(".timeline", {
+  y: 30,
+  opacity: 0,
+  stagger: 0.2,
+  delay: 1,
+  repeat: 0,
+});
+
+tl.add(child, "-=0.5");
