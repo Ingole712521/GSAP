@@ -21,7 +21,7 @@ const t1 = gsap.timeline({
 
 const child = gsap.timeline();
 
-child.from(".timeline", {
+child.from(".timeline", { 
   y: 30,
   opacity: 0,
   stagger: 0.2,
