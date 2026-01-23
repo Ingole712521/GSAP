@@ -1,8 +1,4 @@
-<!-- @format -->
 
-# ✅ COMPLETE GSAP ONE-NIGHT MASTER LIST
-
----
 
 ## 1️⃣ GSAP BASICS (FOUNDATION)
 
