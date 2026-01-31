@@ -301,9 +301,3 @@
 - **2 hrs** → Projects
 
 ---
-
-### 🔥 FINAL ADVICE
-
-❌ Don’t jump to plugins first
-❌ Don’t copy blindly
-✅ Animate → break → fix
