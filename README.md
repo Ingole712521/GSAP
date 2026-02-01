@@ -1,8 +1,4 @@
-<!-- @format -->
 
-# ✅ COMPLETE GSAP ONE-NIGHT MASTER LIST
-
----
 
 ## 1️⃣ GSAP BASICS (FOUNDATION)
 
@@ -305,9 +301,3 @@
 - **2 hrs** → Projects
 
 ---
-
-### 🔥 FINAL ADVICE
-
-❌ Don’t jump to plugins first
-❌ Don’t copy blindly
-✅ Animate → break → fix
